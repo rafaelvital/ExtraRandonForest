@@ -1,0 +1,21 @@
+Ensemble tree
+m=50
+Input=18
+Output=1
+N =2310
+Crossvalidation = 5
+
+Ensemble GPU
+R2 0.894214
+RAAE 0.122713
+RMAE 1.7334
+RMSE 0.591666
+PEP -13.4286
+
+
+Ensemble CPU
+R2 0.891048
+RAAE 0.123443
+RMAE 1.86023
+RMSE 0.607657
+PEP -15.6571
